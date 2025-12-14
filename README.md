@@ -1,10 +1,10 @@
-# UAntwerpen Thesis Template - Typst Version
+# UAntwerpen Thesis Typst Template
 
 A Typst conversion of the official UAntwerpen Bachelor/Master thesis LaTeX template.
 
-> **⚠️ Disclaimer:** This is a vibecoded template based on the official UAntwerpen LaTeX thesis template (`uantwerpenbamathesis.cls`). While functional, there may be some issues or inconsistencies. Feel free to open a PR if you find any problems or improvements!
+> **⚠️ Disclaimer:** This is a vibecoded template based on the official UAntwerpen LaTeX thesis template. While functional, there may be some issues or inconsistencies. Feel free to open a PR if you find any problems or improvements!
 >
-> This template was primarily used and tested by students of Digital Business Engineering (faculty `ti`). Other faculties should also be supported, but have not been extensively tested.
+> Also this template was primarily used and tested by students of Digital Business Engineering (faculty `be`). Other faculties should also be supported, but have not been extensively tested.
 
 ## Quick Start
 
@@ -26,11 +26,9 @@ Configure the template at the beginning of your document:
   doc-type: [Master's Thesis],
   academic-year: [2024 - 2025],
   supervisors: (([prof. dr. Name], [UAntwerpen]),),
-  logo-path: "Overleaf-uantwerpenbamathesis/Logos/logo-uantwerpen-ti-en-rgb-pos.pdf",
+  logo-path: "logos/logo-uantwerpen-ti-en-rgb-pos.pdf",
 )
 ```
-
-**Note:** Use square brackets `[...]` for text content and escape colons with `\:`.
 
 ## Faculty Codes
 

@@ -109,7 +109,7 @@
     paper: "a4",
     margin: if draft {
       // Draft mode: consistent margins for screen reading
-      (top: 2.6cm, bottom: 2.5cm, left: 3.5cm, right: 1.6cm)
+      (top: 2.6cm, bottom: 2.5cm, left: 1.6cm, right: 1.6cm)
     } else {
       // Two-sided mode: alternating margins for book binding
       (top: 2.6cm, bottom: 2.5cm, inside: 3.5cm, outside: 1.6cm)
